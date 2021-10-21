@@ -50,12 +50,47 @@ Contribui tanto no backend, quanto no frontend da aplicação. No backend, escre
 - Conceitos de Hardware - Sei fazer com autonomia
 
 #### Soft Skills
-Apresente as soft skills que você utilizou/desenvolveu durante o projeto e em quais situações elas foram fundamentais.
+
 - Trabalho em equipe - Colaboração e troca de informações foram essenciais em todas as fases do projeto.
 - Aprendizado continuo - Foi necessario aprender varias tecnologias que até então tinha apenas ouvido falar, é essencial manter a mente aberta.
 
 ### Em 2020-1
-Mesmo formato
+#### Nome do projeto: Algo Positivo
+#### Empresa parceira: Spc serasa
+
+Foi criado um programa que analisa os pagamentos dos clientes e envia por e-mail um arquivo em formato CSV contendo as informações dos clientes da empresa. O e-mail é enviado para os colaboradores da empresa SPC Brasil da área de marketing. A área de marketing da empresa com essas informações em mãos, terá um auxílio nas decisões a respeito de oferecer ou não novos produtos e serviços para determinados clientes, de acordo com as informações dos clientes, se são bons ou maus pagadores.
+
+- [GIT](https://github.com/IsraelAugusto0110/Algo-Positivo.git)
+
+- A seguir é apresentada um gif do aplicativo em funcionamento.
+
+<img src="https://github.com/IsraelAugusto0110/Trabalho-de-graduacao-1/blob/main/Images/Previa0.gif" width="400" />
+
+#### A equipe era formada por:
+
+- Wesley Dias(Scrum Master)
+- Denis Lima(Developer)
+- Israel Augusto(Scrum Master)
+- Natalia Biscaro(Developer)
+- Euclides Resende(Developer)
+
+#### Tecnologias Utilizadas
+Backend:
+- Python: Foi usado para criar a API, lê os arquivos em .csv, filtra os dados e gera o relatório para o usuário.
+- Sqlite3: Versão simplificada de um banco de dados relacional(SQL) para armazenar os dados dos clientes.
+
+#### Contribuições Pessoais
+
+Fui responsável pelo banco de dados em sql e o codigo de conexao com o bd.
+
+#### Hard Skills
+- Python - Sei fazer com autonomia
+- Sql - Sei fazer com autonomia
+
+#### Soft Skills
+
+- Trabalho em equipe - Colaboração e troca de informações foram essenciais em todas as fases do projeto.
+- Aprendizado continuo - Foi necessario aprender varias tecnologias que até então tinha apenas ouvido falar, é essencial manter a mente aberta.
 
 ### Em 2020-2
 Mesmo formato
