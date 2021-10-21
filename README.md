@@ -64,7 +64,7 @@ Foi criado um programa que analisa os pagamentos dos clientes e envia por e-mail
 
 - A seguir é apresentada um gif do aplicativo em funcionamento.
 
-<img src="https://github.com/IsraelAugusto0110/Trabalho-de-graduacao-1/blob/main/Images/Previa0.gif" width="400" />
+<img src="https://github.com/IsraelAugusto0110/Trabalho-de-graduacao-1/blob/main/Images/Previa0.gif" width="1000" />
 
 #### A equipe era formada por:
 
