@@ -93,7 +93,53 @@ Fui responsável pelo banco de dados em sql e o codigo de conexao com o bd.
 - Aprendizado continuo - Foi necessario aprender varias tecnologias que até então tinha apenas ouvido falar, é essencial manter a mente aberta.
 
 ### Em 2020-2
-Mesmo formato
+#### Nome do projeto: ShapeTp
+#### Empresa parceira: Visiona
+
+O objetivo deste projeto foi desenvolver uma aplicação web local "mini-ETL" que converta arquivos em formato Shapefile para uma tabela existente do banco de dados PostgreSQL/PostGIS e que faça também o caminho inverso, ou seja buscar no banco de dados e devolver ao usuário um arquivo Shapefile. A empresa parceira utilizava uma aplicação paga para tal operação, portanto a necessidade de reduzir custos com um "mini-ETL" open source, que seja pensado para as necessidades especificas desta empresa.
+
+[GIT](https://github.com/IsraelAugusto0110/ShapeTP.git)
+
+- A seguir é apresentada um gif do aplicativo em funcionamento.
+- - Convertendo arquivos Shapefile para postgreSql
+<img src="https://github.com/IsraelAugusto0110/Trabalho-de-graduacao-1/blob/main/Images/ShapeToPost.gif" width="1000" />
+
+- - Convertendo arquivos postgreSql para Shapefile
+<img src="https://github.com/IsraelAugusto0110/Trabalho-de-graduacao-1/blob/main/Images/PostToShape.gif" width="1000" />
+
+#### A equipe era formada por:
+
+- Wesley Dias(Developer)
+- Denis Lima(Developer)
+- Israel Augusto(Developer)
+- Natalia Biscaro(Scrum Master)
+- Euclides Resende(PO)
+- Sandro de Araujo(Developer)
+
+#### Tecnologias Utilizadas
+Backend:
+- Java: Utilizada para a criação da API que converte os arquivos e salva no banco.
+- PostgreSql: Banco de dados relacional(Sql) capaz de armazenar inclusive dados geometricos, como pontos linhas e poligonos;
+- ShapeFile: A extensão .shp é utilizada para armazenar dados geograficos como mapas.
+- PgAdmin: Ferramenta para administração de bancos de dados Postgres, com interface de usuário.
+Frontend:
+- Html e Css: usados para criar a interface de usuários com estilização.
+- [Figma](https://www.figma.com/) : utilizado para criar o prototipo das telas.
+
+#### Contribuições Pessoais
+
+Criei as telas utilizando Figma, e codifiquei o frontend.
+
+#### Hard Skills
+- PostgreSql - Sei fazer com autonomia
+- Html e Css - Sei fazer com autonomia
+- Java - Sei fazer com autonomia
+
+#### Soft Skills
+
+- Trabalho em equipe - Colaboração e troca de informações foram essenciais em todas as fases do projeto.
+- Aprendizado continuo - Foi necessario aprender varias tecnologias que até então tinha apenas ouvido falar, é essencial manter a mente aberta.
+
 
 ### Em 2021-1
 Mesmo formato
