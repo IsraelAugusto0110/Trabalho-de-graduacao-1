@@ -14,9 +14,10 @@ Olá, me chamo Israel Augusto, estou cursando o Analise e Desenvolvimento de Sis
 
 O projeto desenvolvido neste semestre teve como tematica ‘Sistemas Automatizados 4.0”, ou seja, criar uma solução de Iot(Internet of Things) que integrasse componentes de hardware e software para automação residencial, como por exemplo ligar e desligar lâmpada, controle de temperatura ambiente, etc. Por ser nosso primeiro semestre e por que a metodologia de aprendizado por API estava no inicio, nossa empresa parceira foi a propria Fatec. Tivemos a orientação do professor Jean Carlos que nos indicou as melhores tecnologias, de acordo com o nivel de nossos conhecimentos. Utilizamos para o frontend a ferramenta App Inventor para criar uma interface de usuário simples, e para o backend, além do Firebase para o banco de dados e a IDE do arduino para o codigo que controla os componentes de hardware. Na aplicação final, o usuario utiliza o app para dispositivos moveis que envia os comandos para a placa de arduino, atraves de sinal bluetooth.
 
-[GIT](https://github.com/IsraelAugusto0110/Lumem)
+- [GIT](https://github.com/IsraelAugusto0110/Lumem)
 
-A seguir é apresentada a tela do aplicativo.
+- A seguir é apresentada a tela do aplicativo.
+
 <img src="https://github.com/IsraelAugusto0110/Trabalho-de-graduacao-1/blob/main/Images/TelaLumem.png" width="200" />
 
 #### A equipe era formada por:
