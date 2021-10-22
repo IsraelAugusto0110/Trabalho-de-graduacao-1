@@ -142,7 +142,49 @@ Criei as telas utilizando Figma, e codifiquei o frontend.
 
 
 ### Em 2021-1
-Mesmo formato
+#### Nome do projeto: WebMeeting
+#### Empresa parceira: Iacit
+
+O desafio proposto foi de criar um sistema web para criação e gerenciamento de atas de reunião utilizando SQL, NodeJS, React e Javascript. Com as funcionalidades de CRUD de usuários, CRUD das atas, salvar as atas em pdf ou excel e imprimir as atas.
+
+[GIT](https://github.com/IsraelAugusto0110/WebMeeting.git)
+
+- A seguir é apresentada um gif do aplicativo em funcionamento.
+<img src="https://github.com/IsraelAugusto0110/Trabalho-de-graduacao-1/blob/main/Images/AppDemo.gif" width="500" />
+
+#### A equipe era formada por:
+- Pedro Landin(PO)
+- Thiago Canonici(Developer)
+- Israel Augusto(Developer)
+- Natalia Biscaro(Scrum Master)
+- Euclides Resende(Developer)
+- Joao Vitor Medeiros(Developer)
+- Marcos Yan(Developer)
+
+#### Tecnologias Utilizadas
+Backend:
+- Node.js: Para criar o servidor da aplicação em javascript e da api que faz as buscas no banco de dados;
+- MySql: Banco de dados relacional;
+Frontend:
+- Html e Css: usados para criar a interface de usuários com estilização.
+- [Figma](https://www.figma.com/) : utilizado para criar o prototipo das telas.
+- React: Framework em javascript para criar paginas web dianmicas
+
+#### Contribuições Pessoais
+
+Criei a api utilizando javascript e node.js e ajudei na integração entre o frontend e backend. Além disso, modelei e codifiquei o banco de dados.
+
+
+#### Hard Skills
+- Node.js - Sei fazer com autonomia
+- React - Sei fazer com autonomia
+- Mysql - Sei fazer com autonomia
+
+#### Soft Skills
+
+- Trabalho em equipe - Colaboração e troca de informações foram essenciais em todas as fases do projeto.
+- Aprendizado continuo - Foi necessario aprender varias tecnologias que até então tinha apenas ouvido falar, é essencial manter a mente aberta.
+
 
 ### Em 2021-2
 Mesmo formato
