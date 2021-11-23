@@ -4,7 +4,7 @@
 
 ## Introdução
 
-Olá, me chamo Israel Augusto, estou cursando o Analise e Desenvolvimento de Sistemas na Fatec - Profº Jessen Vidal. estes são alguns dos projetos que meus colegas e eu desenvolvemos durante os 5 primeiros semestres de nossa graduação.
+Olá, me chamo Israel Augusto, estou cursando o Análise e Desenvolvimento de Sistemas na Fatec - Profº Jessen Vidal. estes são alguns dos projetos que meus colegas e eu desenvolvemos durante os 5 primeiros semestres de nossa graduação.
 
 ## Meus Projetos
 
@@ -12,7 +12,7 @@ Olá, me chamo Israel Augusto, estou cursando o Analise e Desenvolvimento de Sis
 #### Nome do projeto: Lumém
 #### Empresa parceira: Fatec
 
-O projeto desenvolvido neste semestre teve como tematica ‘Sistemas Automatizados 4.0”, ou seja, criar uma solução de Iot(Internet of Things) que integrasse componentes de hardware e software para automação residencial, como por exemplo ligar e desligar lâmpada, controle de temperatura ambiente, etc. Por ser nosso primeiro semestre e por que a metodologia de aprendizado por API estava no inicio, nossa empresa parceira foi a propria Fatec. Tivemos a orientação do professor Jean Carlos que nos indicou as melhores tecnologias, de acordo com o nivel de nossos conhecimentos. Utilizamos para o frontend a ferramenta App Inventor para criar uma interface de usuário simples, e para o backend, além do Firebase para o banco de dados e a IDE do arduino para o codigo que controla os componentes de hardware. Na aplicação final, o usuario utiliza o app para dispositivos moveis que envia os comandos para a placa de arduino, atraves de sinal bluetooth.
+O projeto desenvolvido neste semestre teve como temática ‘Sistemas Automatizados 4.0”, ou seja, criar uma solução de Iot(Internet of Things) que integrasse componentes de hardware e software para automação residencial, como por exemplo ligar e desligar lâmpada, controle de temperatura ambiente, etc. Por ser nosso primeiro semestre e por que a metodologia de aprendizado por API estava no início, nossa empresa parceira foi a própria Fatec. Tivemos a orientação do professor Jean Carlos que nos indicou as melhores tecnologias, de acordo com o nível de nossos conhecimentos. Utilizamos para o frontend a ferramenta App Inventor para criar uma interface de usuário simples, e para o backend, além do Firebase para o banco de dados e a IDE do Arduino para o código que controla os componentes de hardware. Na aplicação final, o usuário utiliza o app para dispositivos moveis que envia os comandos para a placa de Arduino, através de sinal bluetooth.
 
 - [GIT](https://github.com/IsraelAugusto0110/Lumem)
 
@@ -96,7 +96,7 @@ Fui responsável pelo banco de dados em sql e o codigo de conexao com o bd.
 #### Nome do projeto: ShapeTp
 #### Empresa parceira: Visiona
 
-O objetivo deste projeto foi desenvolver uma aplicação web local "mini-ETL" que converta arquivos em formato Shapefile para uma tabela existente do banco de dados PostgreSQL/PostGIS e que faça também o caminho inverso, ou seja buscar no banco de dados e devolver ao usuário um arquivo Shapefile. A empresa parceira utilizava uma aplicação paga para tal operação, portanto a necessidade de reduzir custos com um "mini-ETL" open source, que seja pensado para as necessidades especificas desta empresa.
+O objetivo deste projeto foi desenvolver uma aplicação web do tipo "mini-ETL" que converta arquivos em formato Shapefile para uma tabela existente do banco de dados PostgreSQL/PostGIS e que faça também o caminho inverso, ou seja buscar no banco de dados e devolver ao usuário um arquivo Shapefile. A empresa parceira utilizava uma aplicação paga para tal operação, portanto a necessidade de reduzir custos com um "mini-ETL" open source, que seja pensado para as necessidades especificas desta empresa.
 
 [GIT](https://github.com/IsraelAugusto0110/ShapeTP.git)
 
