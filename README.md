@@ -186,8 +186,43 @@ Criei a api utilizando javascript e node.js e ajudei na integração entre o fro
 - Aprendizado continuo - Foi necessario aprender varias tecnologias que até então tinha apenas ouvido falar, é essencial manter a mente aberta.
 
 
-### Em 2021-2
-Mesmo formato
+### Em 2022-2
+#### Nome do projeto: API-5ºSEM
+#### Empresa parceira: Fatec ( neste semestre não havia empresa parceira, sendo os professores da Fatec os responsaveis por propor o desafio)
+
+Desenvolver um aplicativo mobile que permita aos cidadaos de um municipio enviar solicitações/reclamações para a secretaria de obras, por exemplo, solicitando a troca de lampadas de um poste ou para informar sobre a coleta de lixo atrasada.
+
+[GIT](https://github.com/IsraelAugusto0110/api-5sem.git)
+
+- A seguir é apresentada um gif do aplicativo em funcionamento.
+<img src="https://github.com/IsraelAugusto0110/Trabalho-de-graduacao-1/blob/main/Images/AppDemo.gif" width="500" />
+
+#### A equipe era formada por:
+- Israel Augusto(Developer)
+
+
+#### Tecnologias Utilizadas
+Backend:
+- Node.js: Para criar o servidor da aplicação em javascript e da api que faz as buscas no banco de dados;
+- MySql: Banco de dados relacional;
+Frontend:
+- [Figma](https://www.figma.com/) : utilizado para criar o prototipo das telas.
+- React Native: Baseado no React, framework JS para desenvolvimento web, o React Native possibilita a criação de aplicações móvel multiplataforma (Android e iOS) utilizando apenas Javascript. Porém, diferente de outros frameworks com esta mesma finalidade (Cordova, por exemplo), todo o código desenvolvido com o React Native é convertido para linguagem nativa do sistema operacional, o que torna o app muito mais fluido.
+
+#### Contribuições Pessoais
+
+Optei por fazer este trabalho sozinho, portanto fui responsavel por todas as tarefas, incluindo o desenho das telas, o banco de dados, a api do backend e programar o frontend.
+
+
+#### Hard Skills
+- Node.js - Sei fazer com autonomia
+- React Native - Sei fazer com autonomia
+- Mysql - Sei fazer com autonomia
+
+#### Soft Skills
+
+- Trabalho em equipe - Colaboração e troca de informações foram essenciais em todas as fases do projeto.
+- Aprendizado continuo - Foi necessario aprender varias tecnologias que até então tinha apenas ouvido falar, é essencial manter a mente aberta.
 
 ## Meus Principais Conhecimentos
 Apresente seus principais conhecimentos. Foque nos conhecimentos que possui maior domínio e que deseja desenvolver durante sua carreira.
