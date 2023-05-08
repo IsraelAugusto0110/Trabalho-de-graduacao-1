@@ -192,10 +192,10 @@ Criei a api utilizando javascript e node.js e ajudei na integração entre o fro
 
 Desenvolver um aplicativo mobile que permita aos cidadaos de um municipio enviar solicitações/reclamações para a secretaria de obras, por exemplo, solicitando a troca de lampadas de um poste ou para informar sobre a coleta de lixo atrasada.
 
-
+[GIT](https://github.com/IsraelAugusto0110/api-5sem.git)
 
 - A seguir é apresentada um gif do aplicativo em funcionamento.
-<img src="https://github.com/IsraelAugusto0110/Trabalho-de-graduacao-1/blob/main/Images/Api5Sem.gif" width="500" />
+<img src="https://github.com/IsraelAugusto0110/Trabalho-de-graduacao-1/blob/main/Images/Api5Sem.mp4" width="500" />
 
 #### A equipe era formada por:
 - Israel Augusto(Developer)
@@ -229,6 +229,12 @@ Optei por fazer este trabalho sozinho, portanto fui responsavel por todas as tar
 #### Empresa parceira: Fatec
 
 Em todas as sprints de API há um documento que precisa ser preenchido denominado PACER, com ele os membros da equipe se auto avaliam e avaliam seus Masters, gerando uma nota final. Esse preenchimento era realizado através de um Excel e enviado para o docente responsável pelo API da turma de forma um pouco trabalhosa. Com isso, iremos desenvolver um Software que realiza o cálculo das notas do Pacer, tornando o processo mais prático tanto para o docente quanto para o aluno.
+
+[GIT-Backend](https://github.com/Salitop/SmartPacer.git)
+[GIT-Frontend](https://github.com/Salitop/SmartPacer-UI.git)
+
+- A seguir é apresentada um gif do aplicativo em funcionamento.
+
 
 #### A equipe era formada por:
 - Ana Clara Ferreira de Godoy (Product Owner)
