@@ -195,7 +195,7 @@ Desenvolver um aplicativo mobile que permita aos cidadaos de um municipio enviar
 [GIT](https://github.com/IsraelAugusto0110/api-5sem.git)
 
 - A seguir é apresentada um gif do aplicativo em funcionamento.
-<img src="https://github.com/IsraelAugusto0110/Trabalho-de-graduacao-1/blob/main/Images/Api5Sem.mp4" width="500" />
+<img src="https://github.com/IsraelAugusto0110/Trabalho-de-graduacao-1/blob/main/Images/Api5Sem.gif" width="500" />
 
 #### A equipe era formada por:
 - Israel Augusto(Developer)
