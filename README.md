@@ -260,7 +260,11 @@ No backend fui reponsavel por criar o sistema de login. No frontend criei a tela
 - Aprendizado continuo - Foi necessario aprender varias tecnologias que até então tinha apenas ouvido falar, é essencial manter a mente aberta.
 
 ## Meus Principais Conhecimentos
-Apresente seus principais conhecimentos. Foque nos conhecimentos que possui maior domínio e que deseja desenvolver durante sua carreira.
+Sendo um aluno da Fatec aprendi muitas tecnologias interessantes, que concerteza serão muito uteis na minha carreira e em futuros projetos, porém as mais interssantes são:
+- MySQl: Sistema de banco de dados relacional, utilizado por muitas empresas, grandes e pequenas.
+- Python: Linguagem de programação com sintaxe simples e dinamica.
+- Java: Permite a criação de apis robustas.
+- React Native: Para criar aplicações mobile responsivas e dinamicas. 
 
 ## Contatos
 * [GIT](https://github.com/IsraelAugusto0110)
