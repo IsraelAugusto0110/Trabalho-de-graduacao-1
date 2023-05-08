@@ -192,7 +192,7 @@ Criei a api utilizando javascript e node.js e ajudei na integração entre o fro
 
 Desenvolver um aplicativo mobile que permita aos cidadaos de um municipio enviar solicitações/reclamações para a secretaria de obras, por exemplo, solicitando a troca de lampadas de um poste ou para informar sobre a coleta de lixo atrasada.
 
-[GIT](https://github.com/IsraelAugusto0110/api-5sem.git)
+
 
 - A seguir é apresentada um gif do aplicativo em funcionamento.
 <img src="https://github.com/IsraelAugusto0110/Trabalho-de-graduacao-1/blob/main/Images/AppDemo.gif" width="500" />
@@ -216,6 +216,41 @@ Optei por fazer este trabalho sozinho, portanto fui responsavel por todas as tar
 
 #### Hard Skills
 - Node.js - Sei fazer com autonomia
+- React Native - Sei fazer com autonomia
+- Mysql - Sei fazer com autonomia
+
+#### Soft Skills
+
+- Trabalho em equipe - Colaboração e troca de informações foram essenciais em todas as fases do projeto.
+- Aprendizado continuo - Foi necessario aprender varias tecnologias que até então tinha apenas ouvido falar, é essencial manter a mente aberta.
+
+### Em 2023-1
+#### Nome do projeto: Smart Pacer
+#### Empresa parceira: Fatec
+
+Em todas as sprints de API há um documento que precisa ser preenchido denominado PACER, com ele os membros da equipe se auto avaliam e avaliam seus Masters, gerando uma nota final. Esse preenchimento era realizado através de um Excel e enviado para o docente responsável pelo API da turma de forma um pouco trabalhosa. Com isso, iremos desenvolver um Software que realiza o cálculo das notas do Pacer, tornando o processo mais prático tanto para o docente quanto para o aluno.
+
+#### A equipe era formada por:
+- Ana Clara Ferreira de Godoy (Product Owner)
+- Luiz Miguel Macedo Andre (Master)
+- Edryan Matheus dos Santos Maciel (Dev Team)
+- Israel Augusto (Dev Team)
+- Pedro Sousa Lopes (Dev Team)
+
+#### Tecnologias Utilizadas
+Backend:
+- Python Flask
+- MySql: Banco de dados relacional;
+Frontend:
+- Html e Css: usados para criar a interface de usuários com estilização.
+- [Figma](https://www.figma.com/) : utilizado para criar o prototipo das telas.
+- React: Framework em javascript para criar paginas web dianmicas
+
+#### Contribuições Pessoais
+No backend fui reponsavel por criar o sistema de login. No frontend criei a tela de login, as telas iniciais do professor e do aluno e tambem a tela de gestão de sprint
+
+#### Hard Skills
+- Python Flask - Sei fazer com autonomia
 - React Native - Sei fazer com autonomia
 - Mysql - Sei fazer com autonomia
 
