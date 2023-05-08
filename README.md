@@ -234,6 +234,7 @@ Em todas as sprints de API há um documento que precisa ser preenchido denominad
 [GIT-Frontend](https://github.com/Salitop/SmartPacer-UI.git)
 
 - A seguir é apresentada um gif do aplicativo em funcionamento.
+- <img src="https://github.com/IsraelAugusto0110/Trabalho-de-graduacao-1/blob/main/Images/api6.gif" width="500" />
 
 
 #### A equipe era formada por:
